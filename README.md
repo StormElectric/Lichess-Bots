@@ -40,4 +40,4 @@ You're now connected to lichess and awaiting challenges! Your bot is up and read
 Your **BOT** can play all variants and also standard but your bot is not playing **standard** very strong, if you want to make it stronger change the [6th line of config.yml](/config.yml#L6) to chess-engine then you'll have to wait 5 minutes, After 5 minutes your **BOT** is playing very strong but it will not play all other variants. If you want your bot to play all other variants once again, you can change the [6th line of config.yml](/config.yml#L6) to fsf or fairy-sf and then you'll have to wait 5 minutes.
 
 # How to make the bot decline other BOT's challenges?
-If you want other BOTS challenge your bot and you want to decline them, then you can the [96th line of config.yml](/config.yml#L96) from true to false and commit your changes and then you'll have to wait 5 minutes.
+If you want other BOTS challenge your bot and you want to decline them, then you can the [78th line of config.yml](/config.yml#L78) from true to false and commit your changes and then you'll have to wait 5 minutes.
